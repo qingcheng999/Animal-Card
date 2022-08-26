@@ -1,0 +1,62 @@
+img {
+    width:300px;
+    height: 200px;
+
+}
+
+h3 {
+    text-align: left;
+    font-size: 32px;
+    width: 300px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.fact1 {
+    font-style: italic;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+
+    text-align: center;
+
+}
+
+.card {
+    border:2px solid lightgray;
+    width: 300px;
+    padding:1em;
+    margin: 1em;
+    text-align: center;
+    border-radius: 5px;
+    height: 691px;
+    box-shadow: dimgrey;
+    box-shadow: 5px 5px 2px lightgray;
+
+
+
+
+
+
+}
+
+.facts {
+    border:2px solid lightgray;
+    padding: 1em;
+    margin-top: 1em;
+    text-align:left;
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+li {
+    list-style: none;
+    text-align: left;
+
+}
